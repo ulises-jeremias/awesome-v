@@ -61,6 +61,7 @@
 	- [Syntax highlighting](#syntax-highlighting)
 	- [Tutorials](#tutorials)
 	- [Videos](#videos)
+	- [👥 Contributors](#-contributors)
 
 ## Applications
 
